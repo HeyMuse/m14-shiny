@@ -7,3 +7,5 @@ shinyUI(fluidPage(
     plotlyOutput('map')
   )
 ))
+
+
